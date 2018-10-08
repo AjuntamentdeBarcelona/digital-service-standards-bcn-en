@@ -1,0 +1,156 @@
+= Our digital service standards
+
+== We work in multidisciplinary teams
+
+To have teams that can design, build and implement the service, led by a senior service manager.
+
+A multidisciplinary team provides help with the following aspects:
+
+* Building the service self-sufficiently, with no external dependency
+
+* Constantly improving based on the needs of the users
+
+* Taking decisions quickly
+
+== We start with user needs
+
+To develop greater knowledge about who uses the service and what that means for designing the service.
+
+This is fundamental for building a service with the following characteristics:
+
+* It helps users do what they need to do easily
+
+* It is based on actual needs of real users, not assumptions
+
+== We use agile methods; we build iterations
+
+To build the service using agile iterative methods based on the end users.
+
+These methods help build services with the following characteristics:
+
+* They meet the needs of users
+
+* They are simple and convenient to use
+
+* They can easily adapt to technological or government changes
+
+* They constantly improve
+
+== We reduce the burden on the public
+
+To use information already held by the public authorities:
+
+* To build interoperability with other public authorities to avoid asking the public to provide the same documents more than once
+
+* To avoid unnecessary documentation
+
+* To ensure there is consent for the use of personal documents
+
+
+== We use open code and open standards
+
+* To use open code whenever possible
+
+* To use open standards whenever possible
+
+* To make all new code open and re-usable,and publish it with the proper licences
+
+== We understand security, privacy and ethical issues
+
+To assess which user data and which user information the service will provide or store and tackle the following issues:
+
+* Level of security
+
+* Legal responsibilities
+
+* Privacy aspects and risks
+
+Users will not use the service if the following guarantees are not provided:
+
+* Confidentiality
+
+* Access to their information whenever theyneed it
+
+== We design a plan for service downtime
+
+Users will expect the service to be available 24 hours a day, 365 days a year.
+
+A plan must be in place for when services are temporarily offline. The effects of that on users must be understood and there must be ways to restore the service.
+
+== We ensure excellent visual design and accessibility
+
+To build a service that is coherent with the user experience at Barcelona City Council based on the visual design and accessibility guidelines.
+
+* Users trust in the City Council services because they recognise their style
+
+* Time should be saved by re-using repeatable templates, enabling a focus on the unique parts of each service
+
+* Templates and styles based on user studies should be used
+
+== We have a plan for people who need digital support
+
+* To help people develop their digital skills
+
+* To offer digital support to those who cannot use digital services on their own
+
+* When providing a basic service, to ensure it adapts to people with no digital devices
+
+== We constantly assess the user experience
+
+To implement a plan to assess and test the user experience, in order to improve the service based on feedback.
+
+* To check that the service helps users do what they have to do
+
+* To continue improving the service based on their needs
+
+== We assess the tools, systems and services
+
+To assess the tools and systems used and ensure the following:
+
+* The technology principles code is followed and the associated technical risks are understood
+
+* The tools, systems and services can be procured sustainably, while guaranteeing vendor independence
+
+* The services follow ethical data use principles
+
+== We re-use what exists already
+
+Whenever possible, services should try to re-use existing infrastructure and shared features to achieve the following:
+
+* To create a coherent service experience
+
+* To save time and resources when building features that already exist
+
+== We implement a maintenance and support plan
+
+To have a plan for minimising service downtime in the event of an incident.
+
+To identify the basic components of the service that should be monitored.
+
+To use key measures for ongoing service improvement.
+
+== We measure and report on service Performance
+
+To gather and present indicator scores in a coherent, structured, understandable and accessible manner for the public.
+
+To use operation and performance indicators to constantly improve the service:
+
+* Learning about its strengths and weaknesses
+
+* Using the data as a basis for the desired improvements
+
+== We have a plan for doing it all online
+
+The digital services must allow the public to upload, sign and check their documents.
+
+If the public cannot provide documents digitally, the City Council must provide an alternative document digitalisation servic
+
+== We manage change
+
+* To facilitate a transition between the current non-digital service and the new digital service.
+
+* When a digital service is replaced, to have a transition plan for switching from the old service to the new service.
+
+* To migrate existing data and documents to the new digital service formats.
+
+* To avoid any interruptions when the public access the service and ensure there is a plan to encourage use of the new service.

@@ -1,0 +1,1 @@
+* xref:poster-text.adoc[Text of the Poster]
