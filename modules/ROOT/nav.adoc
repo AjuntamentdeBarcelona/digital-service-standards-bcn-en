@@ -1,1 +1,1 @@
-* xref:poster-text.adoc[Text of the Poster]
+* xref:index.adoc[Digital Service Standards]
