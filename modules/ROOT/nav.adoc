@@ -1,1 +1,11 @@
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+.$$MAIN
 * xref:index.adoc[Our digital service standards]
+
+.$$BOTTOM
+* xref:{lang}/glossary:ROOT:glossary.adoc[Guides glossary]
+* link:{attachmentsdir}/barcelona_digital_services_{revnumber}.{lang}.pdf[Download PDF]
